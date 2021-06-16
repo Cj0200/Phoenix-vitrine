@@ -28,7 +28,7 @@ define( 'DB_NAME', 'HNGZ7VtsRk' );
 define( 'DB_USER', 'HNGZ7VtsRk' );
 
 /** Mot de passe de la base de données MySQL. */
-define( 'DB_PASSWORD', 'sjOrb6LmxT' );
+define( 'DB_PASSWORD', 'riTKQ5b7bt' );
 
 /** Adresse de l’hébergement MySQL. */
 define( 'DB_HOST', 'remotemysql.com' );
